@@ -26,4 +26,4 @@ To run this project, you need a web browser (Chrome, Firefox, Safari, etc.)
 
 1. Clone the repository:
    ```sh
-   
+   https://github.com/madhusankha90/JS-calculator.git
