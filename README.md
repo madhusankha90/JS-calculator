@@ -10,10 +10,11 @@ A simple iPhone-style calculator built using HTML, CSS, and JavaScript. This pro
 
 ## Screenshots
 
-### Light Mode                                                                                 ### Dark Mode
-![Light Mode Screenshot](screenshots/light-mode.png)                                           ![Dark Mode Screenshot](screenshots/dark-mode.png)
+### Light Mode                                                                                 
+<img src="screenshots/light_mode.png" alt="Light Mode Screenshot" width="300">                                           
 
-
+### Dark Mode
+![Dark Mode Screenshot](screenshots/dark-mode.png)
 
 ## Getting Started
 
