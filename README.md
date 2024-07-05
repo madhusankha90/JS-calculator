@@ -1,4 +1,4 @@
-# iPhone Calculator
+# JS-Calculator
 
 A simple iPhone-style calculator built using HTML, CSS, and JavaScript. This project includes a dark mode switch for enhanced usability.
 
