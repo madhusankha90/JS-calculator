@@ -14,7 +14,7 @@ A simple iPhone-style calculator built using HTML, CSS, and JavaScript. This pro
 <img src="screenshots/light-mode.png" alt="Light Mode Screenshot" width="300">                                           
 
 ### Dark Mode
-![Dark Mode Screenshot](screenshots/dark-mode.png)
+<img src="screenshots/dark-mode.png" alt="Dark Mode Screenshot" width="300">  
 
 ## Getting Started
 
